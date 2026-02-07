@@ -10,11 +10,23 @@
 </p>
 <br>
 
+
+##  Contato
+<br>
+
+
+<a href="https://www.linkedin.com/in/vinicius-fernandes-222966327/" target="_blank"><img border-radiou="50px" width="50px" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg"/> </a>
+
+
+<br>
+<br>
+
 ## 🛠️ Tecnologias que domino
 <br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br>
 <br>
 
@@ -23,8 +35,8 @@
 ## 📚 Tecnologias em aprendizado
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 <br>
 <br>
 
@@ -40,9 +52,3 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=ViniFernandesz&theme=dark&hide_border=true)
 <br>
 
----
-
-## 📫 Contato
-
-### 💼 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-fernandes-222966327/)
