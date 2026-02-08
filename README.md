@@ -13,9 +13,20 @@
 
 ##  Contato
 <br>
-
-
-<a href="https://www.linkedin.com/in/vinicius-fernandes-222966327/" target="_blank"><img border-radiou="50px" width="50px" src="https://i.pinimg.com/564x/6b/ab/30/6bab3017350ca04c6fa05569672bd31e.jpg"/> </a>
+<a href="https://www.instagram.com/vinimfernandess/" target="_blank"    >
+  <img 
+    border-radiou="50px"
+    height="50px" 
+    width="50px"
+    src="https://www.svgrepo.com/show/346016/instagram-fill.svg"/>
+</a>
+<a
+  href="https://www.linkedin.com/in/vinicius-fernandes-222966327/" target="_blank"   >
+  <img
+    border-radiou="50px"
+    height="50px" width="50px"
+    src="https://www.svgrepo.com/show/453962/linkedin.svg">
+    </a>
 
 
 <br>
